@@ -5,8 +5,8 @@ const SushiContainer = (props) => {
   return (
     <Fragment>
       <div className="belt">
-        {
-          /* 
+        {console.log(props.allSushi)}
+         { /* 
              Render Sushi components here!
           */
         }
